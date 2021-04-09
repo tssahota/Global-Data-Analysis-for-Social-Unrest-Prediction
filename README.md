@@ -1,6 +1,5 @@
 # Global-Data-Analysis-for-Social-Unrest-Prediction
 
----------------------------------------------------------
 
 # Team : Raksha Harish, Tavleen Sahota, Harman Jit Singh
 
