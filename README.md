@@ -1,7 +1,7 @@
 # Global-Data-Analysis-for-Social-Unrest-Prediction
 
 
-# Team ExaMine : Raksha Harish, Tavleen Sahota, Harman Jit Singh
+## Team ExaMine : Raksha Harish, Tavleen Sahota, Harman Jit Singh
 
 ## Problem Statement  
 In this project, we integrated different datasets in order to analyse different factors like world food prices, Gross Domestic Product (GDP) rates, crime and poverty rates, armed conflicts and historical event patterns, and dynamic Twitter streams. Using temporal burst patterns in historical events data helped in the prediction of impactful social unrest events across the world by capturing the social, political and economic contexts of different countries over different timelines. The main aim of this project is:    
