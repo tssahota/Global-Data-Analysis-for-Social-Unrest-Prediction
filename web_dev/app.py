@@ -3,7 +3,7 @@ import dash_bootstrap_components as dbc
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
-from apps import analysis, predictor #, statistics, predictor, comparitive_analysis, other
+from apps import analysis, predictor, twitter#, statistics, predictor, comparitive_analysis, other
 from app_temp import app
 
 # the style arguments for the sidebar. We use position:fixed and a fixed width
@@ -72,7 +72,7 @@ def render_page_content(pathname):
     elif pathname == "/predict":
         return predictor.layout
     elif pathname == "/twitter":
-        return statistics.layout
+        return twitter.layout
     """
                 elif pathname == "/predictor":
                     return predictor.layout
