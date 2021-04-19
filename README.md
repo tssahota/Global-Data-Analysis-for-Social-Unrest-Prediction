@@ -3,6 +3,8 @@
 
 ## Team ExaMine : Raksha Harish, Tavleen Sahota, Harman Jit Singh
 
+### Video: https://youtu.be/Dl3AdkKj-sI
+
 ## Problem Statement  
 In this project, we integrated different datasets in order to analyse different factors like world food prices, Gross Domestic Product (GDP) rates, crime and poverty rates, armed conflicts and historical event patterns, and dynamic Twitter streams. Using temporal burst patterns in historical events data helped in the prediction of impactful social unrest events across the world by capturing the social, political and economic contexts of different countries over different timelines. The main aim of this project is:    
 ● To help world governments and social scientists make better policies by considering all the factors for establishing peaceful governance    
