@@ -3,18 +3,12 @@ import dash_bootstrap_components as dbc
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
-from apps import analysis, predictor, twitter#, statistics, predictor, comparitive_analysis, other
+from apps import analysis, predictor, twitter
 from app_temp import app
 
 # the style arguments for the sidebar. We use position:fixed and a fixed width
 SIDEBAR_STYLE = {
     "position": "fixed",
-    #"top": 0,
-    #"left": 0,
-    #"bottom": 0,
-    #"width": "9rem",
-    #"padding": "2rem 1rem",
-    #background-color": "#000000",
 }
 
 # the styles for the main content position it to the right of the sidebar and
@@ -60,7 +54,7 @@ app.layout = html.Div([dcc.Location(id="url"), sidebar, content])
 def toggle_active_links(pathname):
     if pathname == "/":
         # Treat page 1 as the homepage / index
-        return True, False, False, False, False, False, False
+        return True, False, False
     return [pathname == f"/{link_ids[i]}" for i in range(len(link_ids))]
 
 
@@ -73,13 +67,7 @@ def render_page_content(pathname):
         return predictor.layout
     elif pathname == "/twitter":
         return twitter.layout
-    """
-                elif pathname == "/predictor":
-                    return predictor.layout
-                elif pathname == "/comparitive_analysis":
-                    return comparitive_analysis.layout
-                elif pathname == "/other":
-                    return other.layout"""
+
     # If the user tries to reach a different page, return a 404 message
     return dbc.Jumbotron(
         [
