@@ -1,0 +1,364 @@
+[
+ {
+  "trends": [
+   {
+    "name": "LTIR",
+    "url": "http://twitter.com/search?q=LTIR",
+    "promoted_content": null,
+    "query": "LTIR",
+    "tweet_volume": null
+   },
+   {
+    "name": "#BudHomeRunContest",
+    "url": "http://twitter.com/search?q=%23BudHomeRunContest",
+    "promoted_content": null,
+    "query": "%23BudHomeRunContest",
+    "tweet_volume": null
+   },
+   {
+    "name": "Riley Nash",
+    "url": "http://twitter.com/search?q=%22Riley+Nash%22",
+    "promoted_content": null,
+    "query": "%22Riley+Nash%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "#RIPDMX",
+    "url": "http://twitter.com/search?q=%23RIPDMX",
+    "promoted_content": null,
+    "query": "%23RIPDMX",
+    "tweet_volume": 167689
+   },
+   {
+    "name": "#NDPConvention2021",
+    "url": "http://twitter.com/search?q=%23NDPConvention2021",
+    "promoted_content": null,
+    "query": "%23NDPConvention2021",
+    "tweet_volume": null
+   },
+   {
+    "name": "Dubas",
+    "url": "http://twitter.com/search?q=Dubas",
+    "promoted_content": null,
+    "query": "Dubas",
+    "tweet_volume": null
+   },
+   {
+    "name": "Hobey Baker",
+    "url": "http://twitter.com/search?q=%22Hobey+Baker%22",
+    "promoted_content": null,
+    "query": "%22Hobey+Baker%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Cole Caufield",
+    "url": "http://twitter.com/search?q=%22Cole+Caufield%22",
+    "promoted_content": null,
+    "query": "%22Cole+Caufield%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "#Bellator256",
+    "url": "http://twitter.com/search?q=%23Bellator256",
+    "promoted_content": null,
+    "query": "%23Bellator256",
+    "tweet_volume": null
+   },
+   {
+    "name": "#NS10v10",
+    "url": "http://twitter.com/search?q=%23NS10v10",
+    "promoted_content": null,
+    "query": "%23NS10v10",
+    "tweet_volume": 60024
+   },
+   {
+    "name": "Spring Break",
+    "url": "http://twitter.com/search?q=%22Spring+Break%22",
+    "promoted_content": null,
+    "query": "%22Spring+Break%22",
+    "tweet_volume": 11651
+   },
+   {
+    "name": "Columbus",
+    "url": "http://twitter.com/search?q=Columbus",
+    "promoted_content": null,
+    "query": "Columbus",
+    "tweet_volume": 10270
+   },
+   {
+    "name": "Wizkid",
+    "url": "http://twitter.com/search?q=Wizkid",
+    "promoted_content": null,
+    "query": "Wizkid",
+    "tweet_volume": 151946
+   },
+   {
+    "name": "Duke of Edinburgh",
+    "url": "http://twitter.com/search?q=%22Duke+of+Edinburgh%22",
+    "promoted_content": null,
+    "query": "%22Duke+of+Edinburgh%22",
+    "tweet_volume": 499718
+   },
+   {
+    "name": "Vimy",
+    "url": "http://twitter.com/search?q=Vimy",
+    "promoted_content": null,
+    "query": "Vimy",
+    "tweet_volume": null
+   },
+   {
+    "name": "Kerry",
+    "url": "http://twitter.com/search?q=Kerry",
+    "promoted_content": null,
+    "query": "Kerry",
+    "tweet_volume": 18404
+   },
+   {
+    "name": "Party Up",
+    "url": "http://twitter.com/search?q=%22Party+Up%22",
+    "promoted_content": null,
+    "query": "%22Party+Up%22",
+    "tweet_volume": 72861
+   },
+   {
+    "name": "John Walker",
+    "url": "http://twitter.com/search?q=%22John+Walker%22",
+    "promoted_content": null,
+    "query": "%22John+Walker%22",
+    "tweet_volume": 141884
+   },
+   {
+    "name": "Rest In Peace",
+    "url": "http://twitter.com/search?q=%22Rest+In+Peace%22",
+    "promoted_content": null,
+    "query": "%22Rest+In+Peace%22",
+    "tweet_volume": 323293
+   },
+   {
+    "name": "Belly",
+    "url": "http://twitter.com/search?q=Belly",
+    "promoted_content": null,
+    "query": "Belly",
+    "tweet_volume": 50576
+   },
+   {
+    "name": "Phoebe Waller",
+    "url": "http://twitter.com/search?q=%22Phoebe+Waller%22",
+    "promoted_content": null,
+    "query": "%22Phoebe+Waller%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "April Break",
+    "url": "http://twitter.com/search?q=%22April+Break%22",
+    "promoted_content": null,
+    "query": "%22April+Break%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Earl Simmons",
+    "url": "http://twitter.com/search?q=%22Earl+Simmons%22",
+    "promoted_content": null,
+    "query": "%22Earl+Simmons%22",
+    "tweet_volume": 46368
+   },
+   {
+    "name": "Queen Elizabeth",
+    "url": "http://twitter.com/search?q=%22Queen+Elizabeth%22",
+    "promoted_content": null,
+    "query": "%22Queen+Elizabeth%22",
+    "tweet_volume": 182637
+   },
+   {
+    "name": "Give It To Ya",
+    "url": "http://twitter.com/search?q=%22Give+It+To+Ya%22",
+    "promoted_content": null,
+    "query": "%22Give+It+To+Ya%22",
+    "tweet_volume": 17664
+   },
+   {
+    "name": "X Gon",
+    "url": "http://twitter.com/search?q=%22X+Gon%22",
+    "promoted_content": null,
+    "query": "%22X+Gon%22",
+    "tweet_volume": 17961
+   },
+   {
+    "name": "Royal Family",
+    "url": "http://twitter.com/search?q=%22Royal+Family%22",
+    "promoted_content": null,
+    "query": "%22Royal+Family%22",
+    "tweet_volume": 225924
+   },
+   {
+    "name": "Dark and Hell is Hot",
+    "url": "http://twitter.com/search?q=%22Dark+and+Hell+is+Hot%22",
+    "promoted_content": null,
+    "query": "%22Dark+and+Hell+is+Hot%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Rest in Power",
+    "url": "http://twitter.com/search?q=%22Rest+in+Power%22",
+    "promoted_content": null,
+    "query": "%22Rest+in+Power%22",
+    "tweet_volume": 83065
+   },
+   {
+    "name": "Indiana Jones",
+    "url": "http://twitter.com/search?q=%22Indiana+Jones%22",
+    "promoted_content": null,
+    "query": "%22Indiana+Jones%22",
+    "tweet_volume": 11087
+   },
+   {
+    "name": "Aaliyah",
+    "url": "http://twitter.com/search?q=Aaliyah",
+    "promoted_content": null,
+    "query": "Aaliyah",
+    "tweet_volume": 56863
+   },
+   {
+    "name": "The Last of Us",
+    "url": "http://twitter.com/search?q=%22The+Last+of+Us%22",
+    "promoted_content": null,
+    "query": "%22The+Last+of+Us%22",
+    "tweet_volume": 55329
+   },
+   {
+    "name": "Commonwealth",
+    "url": "http://twitter.com/search?q=Commonwealth",
+    "promoted_content": null,
+    "query": "Commonwealth",
+    "tweet_volume": 25541
+   },
+   {
+    "name": "The Queen",
+    "url": "http://twitter.com/search?q=%22The+Queen%22",
+    "promoted_content": null,
+    "query": "%22The+Queen%22",
+    "tweet_volume": 651085
+   },
+   {
+    "name": "Days Gone",
+    "url": "http://twitter.com/search?q=%22Days+Gone%22",
+    "promoted_content": null,
+    "query": "%22Days+Gone%22",
+    "tweet_volume": 25458
+   },
+   {
+    "name": "Turris",
+    "url": "http://twitter.com/search?q=Turris",
+    "promoted_content": null,
+    "query": "Turris",
+    "tweet_volume": null
+   },
+   {
+    "name": "Charles",
+    "url": "http://twitter.com/search?q=Charles",
+    "promoted_content": null,
+    "query": "Charles",
+    "tweet_volume": 117962
+   },
+   {
+    "name": "Crown",
+    "url": "http://twitter.com/search?q=Crown",
+    "promoted_content": null,
+    "query": "Crown",
+    "tweet_volume": 168968
+   },
+   {
+    "name": "TLOU",
+    "url": "http://twitter.com/search?q=TLOU",
+    "promoted_content": null,
+    "query": "TLOU",
+    "tweet_volume": 15639
+   },
+   {
+    "name": "Holland",
+    "url": "http://twitter.com/search?q=Holland",
+    "promoted_content": null,
+    "query": "Holland",
+    "tweet_volume": 37945
+   },
+   {
+    "name": "Royals",
+    "url": "http://twitter.com/search?q=Royals",
+    "promoted_content": null,
+    "query": "Royals",
+    "tweet_volume": 45148
+   },
+   {
+    "name": "#FreeCodeFridayContest",
+    "url": "http://twitter.com/search?q=%23FreeCodeFridayContest",
+    "promoted_content": null,
+    "query": "%23FreeCodeFridayContest",
+    "tweet_volume": null
+   },
+   {
+    "name": "#askpunk",
+    "url": "http://twitter.com/search?q=%23askpunk",
+    "promoted_content": null,
+    "query": "%23askpunk",
+    "tweet_volume": null
+   },
+   {
+    "name": "#FireKurji",
+    "url": "http://twitter.com/search?q=%23FireKurji",
+    "promoted_content": null,
+    "query": "%23FireKurji",
+    "tweet_volume": null
+   },
+   {
+    "name": "#DMXforever",
+    "url": "http://twitter.com/search?q=%23DMXforever",
+    "promoted_content": null,
+    "query": "%23DMXforever",
+    "tweet_volume": null
+   },
+   {
+    "name": "#MissBurundi2021",
+    "url": "http://twitter.com/search?q=%23MissBurundi2021",
+    "promoted_content": null,
+    "query": "%23MissBurundi2021",
+    "tweet_volume": null
+   },
+   {
+    "name": "#LIB2021",
+    "url": "http://twitter.com/search?q=%23LIB2021",
+    "promoted_content": null,
+    "query": "%23LIB2021",
+    "tweet_volume": null
+   },
+   {
+    "name": "#RemoveThePM",
+    "url": "http://twitter.com/search?q=%23RemoveThePM",
+    "promoted_content": null,
+    "query": "%23RemoveThePM",
+    "tweet_volume": 14222
+   },
+   {
+    "name": "#RuffRyders",
+    "url": "http://twitter.com/search?q=%23RuffRyders",
+    "promoted_content": null,
+    "query": "%23RuffRyders",
+    "tweet_volume": null
+   },
+   {
+    "name": "#canwnt",
+    "url": "http://twitter.com/search?q=%23canwnt",
+    "promoted_content": null,
+    "query": "%23canwnt",
+    "tweet_volume": null
+   }
+  ],
+  "as_of": "2021-04-09T22:58:08Z",
+  "created_at": "2021-04-08T17:22:21Z",
+  "locations": [
+   {
+    "name": "Canada",
+    "woeid": 23424775
+   }
+  ]
+ }
+]
